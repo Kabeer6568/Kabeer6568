@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Kabeer Ali Alvi
-- 👀 I’m interested in HTML , CSS , JavaScript , React , React Native , WordPress , Shopify and more 
-- 🌱 I’m currently learning JavaScript , React and React Native 
-- 💞️ I’m looking to collaborate on HTML , CSS , JavaScript , React , React Native , WordPress and Shopify
-- 📫 You can reach me via gmail kabeeralvi6568@gmail.com
+# Hi, I'm Kabeer
 
-<!---
-Kabeer6568/Kabeer6568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building things on the web — sometimes clean, sometimes messy, but always improving.
+
+Started with WordPress & Shopify, now exploring deeper into how things actually work behind the scenes.
+
+---
+
+##  What I work with
+
+* HTML, CSS, JavaScript
+* PHP & Laravel
+* WordPress & Shopify
+
+---
+
+## What you'll find here
+
+A mix of:
+
+* Real projects
+* Experiments while learning
+* Things that broke before they worked
+
+---
+
+##  Reach me
+
+kabeeralvi6568@gmail.com
+
+---
+
+ Still learning. Still building.
