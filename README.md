@@ -1,6 +1,6 @@
 # Hi, I'm Kabeer
 
-I like building things on the web — sometimes clean, sometimes messy, but always improving.
+I like building things on the web, sometimes clean, sometimes messy, but always improving.
 
 Started with WordPress & Shopify, now exploring deeper into how things actually work behind the scenes.
 
